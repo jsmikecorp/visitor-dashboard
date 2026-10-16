@@ -1,0 +1,38 @@
+{
+ "updated": "2026-10-16T01:09:31.613488+00:00",
+ "sites": [
+  {
+   "id": "qa",
+   "name": "모아타운 Q&A 검색",
+   "url": "https://jsmikecorp.github.io/moatown-qa/",
+   "days": {
+    "2026-10-15": 1,
+    "2026-10-16": 3
+   }
+  },
+  {
+   "id": "dues",
+   "name": "모아타운 회비 조회",
+   "url": "https://jsmikecorp.github.io/moatown-dues/",
+   "days": {
+    "2026-10-16": 2
+   }
+  },
+  {
+   "id": "owner",
+   "name": "모아타운 소유주 조회",
+   "url": "https://jsmikecorp.github.io/samsung-moatown/",
+   "days": {
+    "2026-10-16": 3
+   }
+  },
+  {
+   "id": "golf",
+   "name": "골프장현황조회",
+   "url": "https://jsmikecorp.github.io/golf-courses/",
+   "days": {
+    "2026-10-16": 10
+   }
+  }
+ ]
+}
