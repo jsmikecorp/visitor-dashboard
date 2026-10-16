@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:30:49.356251+00:00",
+ "updated": "2026-10-16T06:37:34.487385+00:00",
  "sites": [
   {
    "id": "qa",
@@ -15,7 +15,7 @@
    "name": "모아타운 회비 조회",
    "url": "https://jsmikecorp.github.io/moatown-dues/",
    "days": {
-    "2026-10-16": 4
+    "2026-10-16": 5
    }
   },
   {
@@ -31,7 +31,7 @@
    "name": "골프장현황조회",
    "url": "https://jsmikecorp.github.io/golf-courses/",
    "days": {
-    "2026-10-16": 16
+    "2026-10-16": 17
    }
   }
  ]
